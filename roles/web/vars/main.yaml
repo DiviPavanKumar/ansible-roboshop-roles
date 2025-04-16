@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.pavandivi.online
+USER_HOST: user.pavandivi.online
+SHIPPING_HOST: shipping.pavandivi.online
+CART_HOST: cart.pavandivi.online
+PAYMENT_HOST: payment.pavandivi.online
